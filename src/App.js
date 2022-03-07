@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useEffect } from "react";
 import MetaMaskOnboarding from '@metamask/onboarding'
